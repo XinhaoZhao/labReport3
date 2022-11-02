@@ -6,7 +6,6 @@ C:\Users\acer\Downloads\technical\911report>find "shot down" chapter-1.txt
     Minutes went by and word arrived of an aircraft down in Pennsylvania. Those in the shelter wondered if the aircraft had been shot down pursuant to this authorization.
     NORAD officials have maintained that they would have intercepted and shot down United 93. We are not so sure. We are sure that the nation owes a debt to the passengers of United 93. Their actions saved the lives of countless others, and may have saved either the Capitol or the White House from destruction.
 ```
-
 ```
 C:\Users\acer\Downloads\technical\911report>find "colleagues" chapter-1.txt
 
@@ -17,7 +16,6 @@ C:\Users\acer\Downloads\technical\911report>find "colleagues" chapter-1.txt
     At least ten passengers and two crew members shared vital information with family, friends, colleagues, or others on the ground. All understood the plane had been hijacked. They said the hijackers wielded knives and claimed to have a bomb. The hijackers were wearing red bandanas, and they forced the passengers to the back of the aircraft.
     At 10:02 that morning, an assistant to the mission crew commander at NORAD's Northeast Air Defense Sector in Rome, New York, was working with his colleagues on the floor of the command center. In a brief moment of reflection, he was recorded remarking that "This is a new type of war."
 ```
-
 ```
 C:\Users\acer\Downloads\technical\911report>find "colleagues" chapter-2.txt
 
@@ -35,13 +33,11 @@ C:\Users\acer\Downloads\technical\911report>find /C "the" chapter-2.txt
 
 ---------- CHAPTER-2.TXT: 526
 ```
-
 ```
 C:\Users\acer\Downloads\technical\911report>find /C "is" chapter-2.txt
 
 ---------- CHAPTER-2.TXT: 368
 ```
-
 3. find /i: specify that the search is case insensitive.  
 ```
 C:\Users\acer\Downloads\technical\911report>find /i "FAMILY" chapter-2.txt
@@ -54,14 +50,12 @@ C:\Users\acer\Downloads\technical\911report>find /i "FAMILY" chapter-2.txt
                 normal costs of doing business increased. Saudi pressures on the Bin Ladin family
             He was accompanied by family members and bodyguards, as well as by al Qaeda members
 ```
-
 ```
 C:\Users\acer\Downloads\technical\911report>find /i "DISPLAY" chapter-3.txt
 
 ---------- CHAPTER-3.TXT
                 on display than in the case of Pan American Flight 103, bound from London to New
 ```
-
 ```
 C:\Users\acer\Downloads\technical\911report>find /i "DISPLAY" chapter-1.txt
 
