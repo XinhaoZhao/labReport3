@@ -1,4 +1,4 @@
-1.  find lines in a file that contain certain strings  
+1.  find lines in a file that contain certain strings 
 ```
 C:\Users\acer\Downloads\technical\911report>find "shot down" chapter-1.txt
 
@@ -23,7 +23,7 @@ C:\Users\acer\Downloads\technical\911report>find "colleagues" chapter-2.txt
 ---------- CHAPTER-2.TXT
                 Bin Ladin and his al Qaeda colleagues. By the late 1980s, the Egyptian Islamist
 ```
-2. find /C: returns the count of lines containing the input string  
+2. find /C: returns the count of lines containing the input string
 ```
 C:\Users\acer\Downloads\technical\911report>find /C "colleagues" chapter-2.txt
 
@@ -39,7 +39,7 @@ C:\Users\acer\Downloads\technical\911report>find /C "is" chapter-2.txt
 
 ---------- CHAPTER-2.TXT: 368
 ```
-3. find /i: specify that the search is case insensitive.  
+3. find /i: specify that the search is case insensitive.
 ```
 C:\Users\acer\Downloads\technical\911report>find /i "FAMILY" chapter-2.txt
 
