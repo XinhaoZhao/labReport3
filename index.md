@@ -1,4 +1,4 @@
-1.  find lines in a file that contain certain strings 
+
 ```
 C:\Users\acer\Downloads\technical\911report>find "shot down" chapter-1.txt
 
