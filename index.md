@@ -1,4 +1,4 @@
-
+1. find + "string" + file finds the lines containing the input string  
 ```
 C:\Users\acer\Downloads\technical\911report>find "shot down" chapter-1.txt
 
