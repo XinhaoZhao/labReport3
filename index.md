@@ -1,14 +1,14 @@
 1. find + "string" + file finds the lines containing the input string  
-a.  
+ 
 ```
+a. 
 C:\Users\acer\Downloads\technical\911report>find "shot down" chapter-1.txt
 
 ---------- CHAPTER-1.TXT
     Minutes went by and word arrived of an aircraft down in Pennsylvania. Those in the shelter wondered if the aircraft had been shot down pursuant to this authorization.
     NORAD officials have maintained that they would have intercepted and shot down United 93. We are not so sure. We are sure that the nation owes a debt to the passengers of United 93. Their actions saved the lives of countless others, and may have saved either the Capitol or the White House from destruction.
-```
-b.  
-```
+    
+b.
 C:\Users\acer\Downloads\technical\911report>find "colleagues" chapter-1.txt
 
 ---------- CHAPTER-1.TXT
@@ -17,9 +17,8 @@ C:\Users\acer\Downloads\technical\911report>find "colleagues" chapter-1.txt
     Shortly thereafter, the passengers and flight crew began a series of calls from GTE airphones and cellular phones. These calls between family, friends, and colleagues took place until the end of the flight and provided those on the ground with firsthand accounts. They enabled the passengers to gain critical information, including the news that two aircraft had slammed into the World Trade Center.
     At least ten passengers and two crew members shared vital information with family, friends, colleagues, or others on the ground. All understood the plane had been hijacked. They said the hijackers wielded knives and claimed to have a bomb. The hijackers were wearing red bandanas, and they forced the passengers to the back of the aircraft.
     At 10:02 that morning, an assistant to the mission crew commander at NORAD's Northeast Air Defense Sector in Rome, New York, was working with his colleagues on the floor of the command center. In a brief moment of reflection, he was recorded remarking that "This is a new type of war."
-```
-c.  
-```
+    
+c.
 C:\Users\acer\Downloads\technical\911report>find "colleagues" chapter-2.txt
 
 ---------- CHAPTER-2.TXT
