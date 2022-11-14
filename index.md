@@ -26,22 +26,24 @@ C:\Users\acer\Downloads\technical\911report>find "colleagues" chapter-2.txt
 ```
 2. find /C: returns the count of lines containing the input string
 ```
+a.
 C:\Users\acer\Downloads\technical\911report>find /C "colleagues" chapter-2.txt
 
 ---------- CHAPTER-2.TXT: 1
-```
-```
+
+b.
 C:\Users\acer\Downloads\technical\911report>find /C "the" chapter-2.txt
 
 ---------- CHAPTER-2.TXT: 526
-```
-```
+
+c.
 C:\Users\acer\Downloads\technical\911report>find /C "is" chapter-2.txt
 
 ---------- CHAPTER-2.TXT: 368
 ```
 3. find /i: specify that the search is case insensitive.
 ```
+a.
 C:\Users\acer\Downloads\technical\911report>find /i "FAMILY" chapter-2.txt
 
 ---------- CHAPTER-2.TXT
@@ -51,14 +53,14 @@ C:\Users\acer\Downloads\technical\911report>find /i "FAMILY" chapter-2.txt
                 member of the royal family, he managed to get out of the country under the pretext
                 normal costs of doing business increased. Saudi pressures on the Bin Ladin family
             He was accompanied by family members and bodyguards, as well as by al Qaeda members
-```
-```
+
+b.
 C:\Users\acer\Downloads\technical\911report>find /i "DISPLAY" chapter-3.txt
 
 ---------- CHAPTER-3.TXT
                 on display than in the case of Pan American Flight 103, bound from London to New
-```
-```
+
+c.
 C:\Users\acer\Downloads\technical\911report>find /i "DISPLAY" chapter-1.txt
 
 ---------- CHAPTER-1.TXT
