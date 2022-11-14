@@ -1,4 +1,4 @@
-1. find + "string" + file finds the lines containing the input string  
+1, find + "string" + file finds the lines containing the input string  
  
 ```
 a. 
@@ -23,10 +23,11 @@ C:\Users\acer\Downloads\technical\911report>find "colleagues" chapter-2.txt
 
 ---------- CHAPTER-2.TXT
                 Bin Ladin and his al Qaeda colleagues. By the late 1980s, the Egyptian Islamist
-```
+```  
 This is useful when we want to find occurance of a certain string in all of the texts.  
   
-2. find /C: returns the count of lines containing the input string  
+2, find /C: returns the count of lines containing the input string  
+  
 ```
 a.
 C:\Users\acer\Downloads\technical\911report>find /C "colleagues" chapter-2.txt
@@ -42,11 +43,12 @@ c.
 C:\Users\acer\Downloads\technical\911report>find /C "is" chapter-2.txt
 
 ---------- CHAPTER-2.TXT: 368
-```
+```  
 This is useful when we need to know the number of lines containing a string, and the data can be collected for further inference.  
   
   
-3. find /i: specify that the search is case insensitive.  
+3, find /i: specify that the search is case insensitive.  
+  
 ```
 a.
 C:\Users\acer\Downloads\technical\911report>find /i "FAMILY" chapter-2.txt
@@ -73,5 +75,5 @@ C:\Users\acer\Downloads\technical\911report>find /i "DISPLAY" chapter-1.txt
     On 9/11, the terrorists turned off the transponders on three of the four hijacked aircraft. With its transponder off, it is possible, though more difficult, to track an aircraft by its primary radar returns. But unlike transponder data, primary radar returns do not show the aircraft's identity and altitude. Controllers at centers rely so heavily on transponder signals that they usually do not display primary radar returns on their radar scopes. But they can change the configuration of their scopes so they can see primary radar returns. They did this on 9/11 when the transponder signals for three of the aircraft disappeared.
     The failure to find a primary radar return for American 77 led us to investigate this issue further. Radar reconstructions performed after 9/11 reveal that FAA radar equipment tracked the flight from the moment its transponder was turned off at 8:56. But for 8 minutes and 13 seconds, between 8:56 and 9:05, this primary radar information on American 77 was not displayed to controllers at Indianapolis Center.
     At 10:02, the communicators in the shelter began receiving reports from the Secret Service of an inbound aircraft-presumably hijacked-heading toward Washington. That aircraft was United 93. The Secret Service was getting this information directly from the FAA. The FAA may have been tracking the progress of United 93 on a display that showed its projected path to Washington, not its actual radar return. Thus, the Secret Service was relying on projections and was not aware the plane was already down in Pennsylvania.
-```
+```  
 This is useful when we want to ignore caes and find all occurences of a certain string.  
